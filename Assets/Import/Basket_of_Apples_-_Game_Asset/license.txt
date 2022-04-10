@@ -1,0 +1,11 @@
+Model Information:
+* title:	Basket of Apples - Game Asset
+* source:	https://sketchfab.com/3d-models/basket-of-apples-game-asset-460fb6dd98f949feaf6d0a7161c6a76e
+* author:	djcarson (https://sketchfab.com/djcarson)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Basket of Apples - Game Asset" (https://sketchfab.com/3d-models/basket-of-apples-game-asset-460fb6dd98f949feaf6d0a7161c6a76e) by djcarson (https://sketchfab.com/djcarson) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
